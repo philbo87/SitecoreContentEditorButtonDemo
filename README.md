@@ -1,5 +1,7 @@
 # Custom Ribbon Buttons for Sitecore Content Editor
 
+[button]: https://github.com/philbo87/SitecoreContentEditorButtonDemo/blob/master/ButtonPicture.png
+
 ## Prerequesites
 Sitecore 9.2
 
